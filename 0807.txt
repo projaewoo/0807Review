@@ -9,7 +9,3 @@ Sonata - Carnival - Matiz - Car
 PolymorphismDemo1
 
 
-안본 것들
-FinalDemo
-FinalDemo1
-
